@@ -1,6 +1,6 @@
 Introduction
 ========
-Discord URL Shortener is a discord-based website that allows you to shorten urls.
+Discord URL Shortener is a Discord-based website that allows you to shorten urls.
 
 Features
 ========
