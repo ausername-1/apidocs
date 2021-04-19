@@ -1,3 +1,4 @@
 .. include:: ../README.rst
 .. include:: ./javascriptexample.rst
-.. include:: ../codeexample.js
+.. literalinclude:: ../codeexample.js
+  :language: Javascript
