@@ -1,4 +1,6 @@
 .. include:: ../README.rst
 .. include:: ./javascriptexample.rst
-.. literalinclude:: ../codeexample.js
-  :language: Javascript
+.. code-block:: javascript
+  :linenos:
+
+  code . . .
