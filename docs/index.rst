@@ -3,7 +3,7 @@ Discord URL Shortener
 
 Table of contents
 =================
-* Javascript Example
+* :ref:`Javascript Example`
 
 
 Javascript Example
