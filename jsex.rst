@@ -1,4 +1,0 @@
-Javascript Example
-==================
-
-     Hello
