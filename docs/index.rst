@@ -3,9 +3,7 @@ Discord URL Shortener
 
 Table of contents
 =================
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+* :ref:`Javascript Example`
 
 
 Javascript Example
